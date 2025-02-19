@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "limits.h": "c",
+    "weather_utils.h": "c"
+  }
+}
